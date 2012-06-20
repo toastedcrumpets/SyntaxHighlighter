@@ -18,7 +18,7 @@
 .syntaxhighlighter.collapsed .toolbar span{display:inline !important;margin-right:1em !important;}
 .syntaxhighlighter.collapsed .toolbar span a{padding:0 !important;display:none !important;}
 .syntaxhighlighter.collapsed .toolbar span a.expandSource{display:inline !important;}
-.syntaxhighlighter .toolbar{position:absolute !important;left:1px !important;top:1px !important;min-width:15px;max-width:15px !important;max-height:15px !important;font-size:10px !important;z-index:10 !important;}
+.syntaxhighlighter .toolbar{position:absolute !important;left:1px !important;top:1px !important;min-width:10px;max-width:10px !important;max-height:15px !important;font-size:10px !important;z-index:10 !important;}
 .syntaxhighlighter .toolbar span.title{display:inline !important;}
 .syntaxhighlighter{min-height:20px;}
 .syntaxhighlighter .toolbar a{display:block !important;text-align:center !important;text-decoration:none !important;padding-top:1px !important;}
