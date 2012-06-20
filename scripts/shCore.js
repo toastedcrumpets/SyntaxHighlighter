@@ -1631,6 +1631,7 @@ sh.Highlighter.prototype = {
 		this.code = code;
 
 		var div = this.create('div');
+	        div.className = 'syntaxhighlighterwrapper';
 
 		// create main HTML
 		div.innerHTML = this.getHtml(code);
