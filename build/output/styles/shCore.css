@@ -1,5 +1,5 @@
 .syntaxhighlighter a,.syntaxhighlighter div,.syntaxhighlighter code,.syntaxhighlighter table,.syntaxhighlighter table td,.syntaxhighlighter table tr,.syntaxhighlighter table tbody,.syntaxhighlighter table thead,.syntaxhighlighter table caption,.syntaxhighlighter textarea{background:none !important;border:0 !important;bottom:auto !important;float:none !important;height:auto !important;left:auto !important;line-height:1.1em !important;margin:0 !important;outline:0 !important;overflow:visible !important;padding:0 !important;position:static !important;right:auto !important;text-align:left !important;top:auto !important;vertical-align:baseline !important;width:auto !important;box-sizing:content-box !important;font-family:"Consolas","Bitstream Vera Sans Mono","Courier New",Courier,monospace !important;font-weight:normal !important;font-style:normal !important;font-size:1em !important;}
-.syntaxhighlighter{display:inline-block;max-width:100%;margin:1em 0 1em 0 !important;position:relative !important;font-size:1em !important;overflow-y:auto !important;}
+.syntaxhighlighter{display:inline-block;max-width:100%;position:relative !important;font-size:1em !important;overflow-y:auto !important;}
 .syntaxhighlighter.source{overflow:hidden !important;}
 .syntaxhighlighter .bold{font-weight:bold !important;}
 .syntaxhighlighter .italic{font-style:italic !important;}
@@ -17,7 +17,7 @@
 .syntaxhighlighter.collapsed .toolbar span{display:inline !important;margin-right:1em !important;}
 .syntaxhighlighter.collapsed .toolbar span a{padding:0 !important;display:none !important;}
 .syntaxhighlighter.collapsed .toolbar span a.expandSource{display:inline !important;}
-.syntaxhighlighter .toolbar{position:absolute !important;left:1px !important;top:1px !important;min-width:10px;max-width:10px !important;max-height:15px !important;font-size:10px !important;z-index:10 !important;}
+.syntaxhighlighter .toolbar{position:absolute !important;left:1px !important;top:-5px !important;min-width:10px;max-width:10px !important;max-height:15px !important;font-size:10px !important;display:none;}
 .syntaxhighlighter .toolbar span.title{display:inline !important;}
 .syntaxhighlighter{min-height:20px;}
 .syntaxhighlighter .toolbar a{display:block !important;text-align:center !important;text-decoration:none !important;padding-top:1px !important;}

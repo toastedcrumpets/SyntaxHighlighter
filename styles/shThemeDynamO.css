@@ -1,14 +1,12 @@
-.syntaxhighlighter {
+.syntaxhighlighterwrapper {
   background-color: #ecf4f4 !important;
   clear:both;
+  border-radius:10px 10px 10px 10px;
+  padding-top:5px;
 }
 
 .syntaxhighlighter .line.highlighted.alt1, .syntaxhighlighter .line.highlighted.alt2 {
   background-color: #d5e5e5 !important;
-}
-
-.syntaxhighlighter {
-    border-radius:10px;
 }
 
 .syntaxhighlighter .line.highlighted.number {
