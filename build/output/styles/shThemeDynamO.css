@@ -1,4 +1,4 @@
-.syntaxhighlighterwrapper{background-color:#ecf4f4 !important;clear:both;border-radius:10px 10px 10px 10px;padding-top:5px;}
+.syntaxhighlighterwrapper{background-color:#ecf4f4 !important;clear:both;border-radius:10px 10px 10px 10px;padding-top:5px;border:2px solid;}
 .syntaxhighlighter .line.highlighted.alt1,.syntaxhighlighter .line.highlighted.alt2{background-color:#d5e5e5 !important;}
 .syntaxhighlighter .line.highlighted.number{color:#ecf4f4 !important;}
 .syntaxhighlighter table caption{color:black !important;}
