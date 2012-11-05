@@ -5,7 +5,7 @@
 
 	function Brush()
 	{
-		var keywords =	'if fi then elif else for do done until while break continue case esac function return in eq ne ge le install distclean pull clone';
+		var keywords =	'if fi then elif else for do done until while break continue case esac function return in eq ne ge le install checkout update distclean pull clone';
 		var commands =  'alias apropos awk basename bash bc bg builtin bzip2 cal cat cd cfdisk chgrp chmod chown chroot' +
 						'cksum clear cmp comm command cp cron crontab csplit cut date dc dd ddrescue declare df ' +
 						'diff diff3 dig dir dircolors dirname dirs du echo egrep eject enable env ethtool eval ' +
@@ -20,7 +20,7 @@
 						'times touch top traceroute trap tr true tsort tty type ulimit umask umount unalias ' +
 						'uname unexpand uniq units unset unshar useradd usermod users uuencode uudecode v vdir ' +
 						'vi watch wc whereis which who whoami Wget xargs yes ' +
-		                                'git dynamod dynarun bjam bunzip2 xmlstarlet'
+		                                'git dynamod dynarun bjam bunzip2 xmlstarlet apt-get add-apt-repository'
 						;
 
 		this.regexList = [
