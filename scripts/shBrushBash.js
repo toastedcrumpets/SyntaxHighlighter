@@ -20,7 +20,7 @@
 						'times touch top traceroute trap tr true tsort tty type ulimit umask umount unalias ' +
 						'uname unexpand uniq units unset unshar useradd usermod users uuencode uudecode v vdir ' +
 						'vi watch wc whereis which who whoami Wget xargs yes ' +
-		                                'git dynamod dynarun bjam bunzip2 xmlstarlet apt-get add-apt-repository'
+		                                'git dynamod dynarun dynavis bjam bunzip2 xmlstarlet apt-get add-apt-repository'
 						;
 
 		this.regexList = [
